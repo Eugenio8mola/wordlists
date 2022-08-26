@@ -63,6 +63,9 @@ earwig
 eel
 elephant
 emu
+earthworm
+eastern brown snake
+eastern coral snake
 falcon
 ferret
 fish
